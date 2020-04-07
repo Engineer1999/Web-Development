@@ -1,0 +1,21 @@
+body{
+    background-color: powderblue;
+}
+h1 {
+    color: white;
+    text-align: center;
+  }
+h2 {
+    color: yellowgreen;
+    text-emphasis: center;
+}
+
+.item{
+    color: blue;
+    text-decoration: cornsilk;
+    text-shadow: darkblue;
+}
+#image_text{
+    float: left;
+    color: darkgreen;
+}
